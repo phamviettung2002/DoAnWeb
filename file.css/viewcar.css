@@ -1,0 +1,113 @@
+#navbarResponsive li :hover
+{
+	color: blue;
+}
+
+.price{
+    display: table;
+    background-color: #f8f9fa; 
+    height: 50px; 
+    width: 100%; 
+    margin-top:30px;
+}
+.price_title{
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 20px; 
+    color: red;
+}
+.checked_star{
+    color: rgb(22, 21, 19);
+}
+.rating{
+    display: table;
+}
+.rating_title{
+    display: table-cell;
+    vertical-align: middle;  
+}
+.fa-star{
+    margin-right: 10px;
+}
+.color{
+    width: 90px;
+    height: 40px;
+    background-color: rgb(233, 233, 230);
+    border: 0px;
+    font-size: 20px;
+    border-radius:8px;
+
+}
+.color:hover{
+    background-color: rgb(243, 218, 164);
+}
+.btnDangkylaithu{
+    width: 215px;
+    height: 40px;
+    background-color: orange;
+    border: 0px;
+    font-size: 20px;
+    border-radius:8px;
+}
+.btnDangkylaithu:hover{
+    background-color: #29d4a1;
+}
+.row_bodycontent{
+    margin: 60px 0px;
+}
+.product-description{
+    display: table;
+    background-color: #f8f9fa; 
+    height: 55px; 
+    width: 100%; 
+}
+.product-description_title{
+    display: table-cell;
+    vertical-align: middle;
+    padding: 0px 40px;
+    color:rgb(39, 38, 38);
+}
+.product-details_title{
+    list-style-type: none; 
+    margin-top:30px;
+    padding: 0px 40px;
+}
+.card{
+    margin: 0px auto;
+    height:270px ;
+    width: 250px;
+}
+.card-img{
+    height: 150px;
+    width: 100%;
+}
+.card-body{
+    height: 100px;
+}
+.rowFooter{
+	background-color: #f8f9fa;
+	
+}
+.footer-line1{
+    text-align: center;
+	padding: 10px;
+}
+.ftr-media{
+    color: black;
+    margin: 0px 0px 0px 10px;
+    height: 32px;
+    width: 32px;
+}
+input.btn.btn-outline-light{
+    border: 0px;
+}
+input.btn.btn-outline-light:hover{
+    background-color: transparent;
+    color:blue ;
+}
+svg.bi.bi-box-arrow-right{
+    position: absolute;
+    top: 31px;
+    right: 96px;
+    color: white;
+}

@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+ #navbarResponsive li :hover
+{
+	color: blue;
+}
+.navbar-expand-sm{
+    padding: 0px 55px 0px 55px;
+}
+.rowFooter{
+	background-color: #f8f9fa;
+	
+}
+.footer-line1{
+    text-align: center;
+	padding: 10px;
+}
+.ftr-media{
+    color: black;
+    margin: 0px 0px 0px 10px;
+    height: 32px;
+    width: 32px;
+}
+.card-footer{
+    display: flex;
+}
+.d-flex{
+    margin: 0 auto;
+}
+input.btn.btn-outline-light{
+    border: 0px;
+}
+input.btn.btn-outline-light:hover{
+    background-color: transparent;
+    color:blue ;
+}
+svg.bi.bi-box-arrow-right{
+    position: absolute;
+    top: 31px;
+    right: 96px;
+    color: white;
+}
